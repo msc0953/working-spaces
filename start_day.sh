@@ -16,6 +16,8 @@ charm /Users/wclee/workspace/test-data-microservice
 # Open Applications
 open -a "Bear"
 open -a "Google Chrome"
+open -a "Google Chrome" "https://dev.azure.com/apexcentral-auto-trainning/"
+open -a "Google Chrome" "https://quii.gitbook.io/learn-go-with-tests/"
 
 # Spotify
 open -a Spotify
