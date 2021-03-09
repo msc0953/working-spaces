@@ -172,11 +172,14 @@ brew install googler # command-line google search
 brew install you-get # download video & youtube
 brew install hugo
 brew install chai
+brew install IINA
+brew install LINE
 
 ### Python
 brew install python
 
-### Dev Editors 
+### Windows Manager
+brew install Contexts
 
 ### Developer Tools
 brew install --cask dash
@@ -192,16 +195,23 @@ brew install --cask goland
 
 ### Productivity
 brew install --cask google-chrome
+#brew install --cask brave # not support
 brew install --cask alfred
-brew install --cask caffeine  # keep computer from sleeping
+brew install --cask chai  # keep computer from sleeping
+brew install --cask spotify
+brew install --cask paw
+brew install --cask typora
+brew install --cask teacode
+brew install --cask xmind
+brew install --cask tunnelblick
 
 ### Quicklook plugins https://github.com/sindresorhus/quick-look-plugins
-brew install --cask qlcolorcode # syntax highlighting in preview
-brew install --cask qlstephen  # preview plaintext files without extension
-brew install --cask qlmarkdown  # preview markdown files
-brew install --cask quicklook-json  # preview json files
-brew install --cask epubquicklook  # preview epubs, make nice icons
-brew install --cask quicklook-csv  # preview csvs
+# brew install --cask qlcolorcode # syntax highlighting in preview
+# brew install --cask qlstephen  # preview plaintext files without extension
+# brew install --cask qlmarkdown  # preview markdown files
+# brew install --cask quicklook-json  # preview json files
+# brew install --cask epubquicklook  # preview epubs, make nice icons
+# brew install --cask quicklook-csv  # preview csvs
 
 ### Chat / Video Conference
 brew install --cask microsoft-teams
@@ -237,6 +247,12 @@ brew install mas
 mas install 1091189122 # Bear
 mas install 1295203466 # Microsof Remote Desktop
 mas install 585829637  # Todoist: To-Do List & Tasks
+mas install 1055511498 # Day One
+mas install 539883307  # LINE
+mas install 419330170  # Moom
+mas install 1116599239 # NordVPN
+mas install 823766827  # OneDrive
+
 
 #############################################
 ### Install few global python packages
