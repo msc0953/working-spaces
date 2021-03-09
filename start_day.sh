@@ -12,12 +12,13 @@ echo "Follow me on twitter! https://twitter.com/msc0953"
 
 # Open My Project
 echo "Open Project by Pycharm"
-charm /Users/wclee/workspace/test-data-microservice
+charm /Users/wclee/workspace/pack-workshop-python
 
 # Open Applications
 open -a "Bear"
 open -a "Google Chrome" "https://dev.azure.com/apexcentral-auto-trainning/"
 open -a "Google Chrome" "https://quii.gitbook.io/learn-go-with-tests/"
+open -a "Google Chrome" "https://hero-course.voicetube.com/calendar/"
 
 # Spotify
 open -a Spotify
