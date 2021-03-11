@@ -204,6 +204,7 @@ brew install --cask typora
 brew install --cask teacode
 brew install --cask xmind
 brew install --cask tunnelblick
+brew install --cask obsidian
 
 ### Quicklook plugins https://github.com/sindresorhus/quick-look-plugins
 # brew install --cask qlcolorcode # syntax highlighting in preview
