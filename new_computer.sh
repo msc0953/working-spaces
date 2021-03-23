@@ -174,6 +174,7 @@ brew install hugo
 brew install chai
 brew install IINA
 brew install LINE
+brew install adr-tools
 
 ### Python
 brew install python
