@@ -193,6 +193,7 @@ brew install --cask parallels
 brew install --cask visual-studio-code
 brew install --cask pycharm
 brew install --cask goland
+brew install --cask intellij-idea
 
 ### Productivity
 brew install --cask google-chrome
