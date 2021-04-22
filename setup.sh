@@ -195,6 +195,8 @@ brew install grep --with-default-names
 brew install trash  # move to osx trash instead of rm
 brew install less
 
+# Random password
+brew install pwgen
 
 ### Python
 brew install python
