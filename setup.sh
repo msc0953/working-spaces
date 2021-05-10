@@ -245,6 +245,7 @@ brew cask install caffeine  # keep computer from sleeping
 brew cask install skitch  # app to annotate screenshots
 brew cask install muzzle
 brew cask install flux
+brew cask install anki
 
 
 ### Keyboard & Mouse
