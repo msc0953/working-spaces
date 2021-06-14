@@ -273,6 +273,8 @@ brew cask install signal
 brew cask install marshallofsound-google-play-music-player
 brew cask install vlc
 
+### Time Management
+brew cask install meetingbar
 
 ### Run Brew Cleanup
 brew cleanup
